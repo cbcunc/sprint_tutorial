@@ -120,9 +120,8 @@ The typical workflow
 
         git clone https://github.com/<USER NAME>/sprint_tutorial
 
-  #. Build the project into your dev environment. Run the test suite.
+  #. Build the project into your dev environment. Run the test suite. With your environment activated:
 
-        # with your environment activated!
         python setup.py develop
         nosetests -v sprint_tutorial
 
