@@ -122,8 +122,8 @@ The typical workflow
 
   #. Build the project into your dev environment. Run the test suite. With your environment activated:
 
-        python setup.py develop
-        nosetests -v sprint_tutorial
+        ```python setup.py develop
+        nosetests -v sprint_tutorial```
 
   #. Branch off to a new branch for your work item::
 
